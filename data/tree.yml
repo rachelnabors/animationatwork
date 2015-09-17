@@ -1,0 +1,4 @@
+---
+index.html.erb: /index.html.erb
+book:
+  declaration-animation.html.erb: /book/declaration-animation.html.erb
